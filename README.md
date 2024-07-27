@@ -1,8 +1,18 @@
 # YOLO V10  C++ TensorRT
 
+<a href="https://github.com/hamdiboukamcha/Yolo-V10-cpp-TensorRT" style="margin: 0 2px;">
+    <img src='https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=GitHub' alt='GitHub'>
+  </a>
+
+  <a href="https://github.com/hamdiboukamcha/Yolo-V10-cpp-TensorRT?tab=GPL-3.0-1-ov-file" style="margin: 0 2px;">
+    <img src='https://img.shields.io/badge/License-CC BY--NC--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
+  </a>
+
 ## Overview
 
 The **YOLOv10 C++ TensorRT Project** is a high-performance object detection solution implemented in **C++** and optimized using **NVIDIA TensorRT**. This project leverages the YOLOv10 model to deliver fast and accurate object detection, utilizing TensorRT to maximize inference efficiency and performance. 
+
+## 📢 Updates
 
 ### Key Features:
 
@@ -47,7 +57,7 @@ YOLOv10-TensorRT/
 - **TensorRT V8.6.1.6**: For optimized inference with YOLOv10.
 - **cuDNN V9.2.1**: For accelerating deep learning training and inference on NVIDIA GPUs. 
 
-## Installation
+## 💾 Installation
 
 ### 1. Install Dependencies
 
