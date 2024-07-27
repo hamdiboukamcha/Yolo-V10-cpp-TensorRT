@@ -137,3 +137,17 @@ Run-time Errors: Ensure that your system has the correct CUDA drivers and that T
 
 For advanced inquiries, feel free to contact me on LinkedIn: <a href="https://www.linkedin.com/in/hamdi-boukamcha-437830146/" target="_blank"> <img src="assets/blue-linkedin-logo.png" alt="LinkedIn" width="32" height="32"></a>
 
+## Citation
+
+If you use this code in your research, please cite the repository as follows:
+
+        @misc{boukamcha2024yolov10,
+            author = {Hamdi Boukamcha},
+            title = {Yolo-V10-cpp-TensorRT},
+            year = {2024},
+            publisher = {GitHub},
+            howpublished = {\url{https://github.com/hamdiboukamcha/Yolo-V10-cpp-TensorRT}},
+        }
+
+
+
