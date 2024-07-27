@@ -133,4 +133,8 @@ Linker Errors: Verify that all dependencies (OpenCV, CUDA, TensorRT) are correct
 
 Run-time Errors: Ensure that your system has the correct CUDA drivers and that TensorRT runtime libraries are accessible. Add TensorRT’s bin directory to your system PATH.
 
+## Contact
 
+For advanced inquiries, feel free to contact me on LinkedIn:
+
+[![LinkedIn](assets/blue-linkedin-logo.png)](https://www.linkedin.com/in/hamdi-boukamcha-437830146/)
