@@ -1,8 +1,8 @@
-# YOLOv10 TensorRT C++
+# YOLO V10  C++ TensorRT
 
 ## Overview
 
-The **YOLOv10 TensorRT Project** is a high-performance object detection solution implemented in **C++** and optimized using **NVIDIA TensorRT**. This project leverages the YOLOv10 model to deliver fast and accurate object detection, utilizing TensorRT to maximize inference efficiency and performance. 
+The **YOLOv10 C++ TensorRT Project** is a high-performance object detection solution implemented in **C++** and optimized using **NVIDIA TensorRT**. This project leverages the YOLOv10 model to deliver fast and accurate object detection, utilizing TensorRT to maximize inference efficiency and performance. 
 
 ### Key Features:
 
