@@ -135,6 +135,5 @@ Run-time Errors: Ensure that your system has the correct CUDA drivers and that T
 
 ## Contact
 
-For advanced inquiries, feel free to contact me on LinkedIn:
+For advanced inquiries, feel free to contact me on LinkedIn: <a href="https://www.linkedin.com/in/hamdi-boukamcha-437830146/" target="_blank"> <img src="assets/blue-linkedin-logo.png" alt="LinkedIn" width="32" height="32"></a>
 
-[![LinkedIn](assets/blue-linkedin-logo.png)](https://www.linkedin.com/in/hamdi-boukamcha-437830146/)
