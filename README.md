@@ -12,7 +12,7 @@
     <img src='https://img.shields.io/badge/License-CC BY--NC--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
   </a>
 
-## Overview
+## 📜 Citation
 
 The **YOLOv10 C++ TensorRT Project** is a high-performance object detection solution implemented in **C++** and optimized using **NVIDIA TensorRT**. This project leverages the YOLOv10 model to deliver fast and accurate object detection, utilizing TensorRT to maximize inference efficiency and performance. 
 
@@ -29,7 +29,7 @@ The **YOLOv10 C++ TensorRT Project** is a high-performance object detection solu
 
 By combining the advanced capabilities of YOLOv10 with TensorRT’s powerful optimization, this project provides a robust and scalable solution for real-time object detection tasks.
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
@@ -41,7 +41,7 @@ By combining the advanced capabilities of YOLOv10 with TensorRT’s powerful opt
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 
-## Project Structure
+## 🏗️ Project Structure
 YOLOv10-TensorRT/
 
 │── include/
@@ -57,7 +57,7 @@ YOLOv10-TensorRT/
 │── CMakeLists.txt
 
 └── README.md
-## Dependencies
+## 📦 Dependencies
 
 - **OpenCV V4.10.0**: For image and video processing.
 - **CUDA V11.7**: For GPU acceleration.
@@ -84,7 +84,7 @@ cd yolov10-tensorrt/Yolov10-TensorRT
       cmake ..
       cmake --build .
 
-## Usage
+## 🚀 Usage
 
 ### Convert ONNX Model to TensorRT Engine
 
@@ -115,7 +115,7 @@ path_to_your_image.jpg: Path to the input image file.
 
 path_to_your_engine.engine: Path to the TensorRT engine file.
 
-## Configuration
+## ⚙️ Configuration
 
 ### CMake Configuration
 In the CMakeLists.txt, update the paths for TensorRT and OpenCV if they are installed in non-default locations:
@@ -133,11 +133,11 @@ Linker Errors: Verify that all dependencies (OpenCV, CUDA, TensorRT) are correct
 
 Run-time Errors: Ensure that your system has the correct CUDA drivers and that TensorRT runtime libraries are accessible. Add TensorRT’s bin directory to your system PATH.
 
-## Contact
+## 📞 Contact
 
 For advanced inquiries, feel free to contact me on LinkedIn: <a href="https://www.linkedin.com/in/hamdi-boukamcha-437830146/" target="_blank"> <img src="assets/blue-linkedin-logo.png" alt="LinkedIn" width="32" height="32"></a>
 
-## Citation
+## 📜 Citation
 
 If you use this code in your research, please cite the repository as follows:
 
